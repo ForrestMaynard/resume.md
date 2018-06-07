@@ -6,7 +6,9 @@
 ##Education
 
 Utah Valley University
+
 Major:Computer Science, Minor: Criminal Justice
+
 Certified Occupational Safety and Health Administration (OSHA)
 
 ##Experience
