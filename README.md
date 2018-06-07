@@ -1,16 +1,10 @@
 # resume.md
 #Forrest Maynard
-
 (281) pho-numb, email@yahoo.com
-
 ##Education
-
 Utah Valley University
-
 Major:Computer Science, Minor: Criminal Justice
-
 Certified Occupational Safety and Health Administration (OSHA)
-
 ##Experience
 ###Self-Employed
 Draper, Utah
