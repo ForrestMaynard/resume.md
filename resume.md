@@ -8,7 +8,7 @@ Utah Valley University
 
 Major: Computer Science, Minor: Criminal Justice
 
-Certified Occupational Safety and Health Administration (OSHA)
+Certified in Occupational Safety and Health Administration (OSHA)
 
 ## Experience
 
@@ -28,7 +28,9 @@ Certified Occupational Safety and Health Administration (OSHA)
 
 * Performed inventory checks daily and adjusted errors through the database
 
-* Received commercial shipments daily *Stocked an average of 400 inventory items daily
+* Received commercial shipments daily
+
+* Stocked an average of 400 inventory items daily
 
 * Adjusted inventory numbers to match demand for sales
 
