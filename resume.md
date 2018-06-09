@@ -12,7 +12,7 @@ Certified Occupational Safety and Health Administration (OSHA)
 
 ## Experience
 
-### Self-Employed -Draper, Utah
+### Self-Employed - Draper, Utah
 
 ### Independent Contracts - 2013 - Present
 
@@ -22,7 +22,7 @@ Certified Occupational Safety and Health Administration (OSHA)
 
 ### Logistics Coworker - Outflow Draper, Utah
 
-### IKEA January 2016 - February 2018
+### IKEA - January 2016 - February 2018
 
 * Completed all customer and delivery orders
 
